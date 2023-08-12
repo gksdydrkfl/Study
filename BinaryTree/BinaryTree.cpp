@@ -11,6 +11,7 @@ private:
     BinaryTree* Right;
 
     char Ch;
+
 public:
     char GetCh() const
     {
@@ -36,6 +37,8 @@ public:
     {
         Right = InTree;
     }
+
+    
 };
 
 void PreOrder(BinaryTree* Tree);
