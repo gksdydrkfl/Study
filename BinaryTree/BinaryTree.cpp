@@ -47,7 +47,6 @@ void InerOrder(BinaryTree* Tree);
 
 int main()
 {
-
     BinaryTree* TreeA = new BinaryTree();
     BinaryTree* TreeB = new BinaryTree();
     BinaryTree* TreeC = new BinaryTree();
@@ -71,10 +70,11 @@ int main()
     TreeE->SetLeft(TreeF);
     TreeE->SetRight(TreeG);
 
-    //PreOrder(TreeA);
-    //InerOrder(TreeA);
+    PreOrder(TreeA);
+    std::cout << std::endl;
+    InerOrder(TreeA);
+    std::cout << std::endl;
     PostOrder(TreeA);
-
 }
 
 BinaryTree::BinaryTree()
