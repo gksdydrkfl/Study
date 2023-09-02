@@ -44,7 +44,6 @@ int main()
     photo.push_back(n3);
 
     map<string, int> m;
-    map<vector<vector<string>>, int> m2;
 
     for (int i = 0; i < name.size(); ++i)
     {

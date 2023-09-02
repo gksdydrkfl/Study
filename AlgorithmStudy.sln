@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "추억점수", "추억점�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "공원산책", "공원산책\공원산책.vcxproj", "{73E302CA-CB02-472B-BD7E-20ECB51FC4E7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "개인정보수집유효기간", "개인정보수집유효기간\개인정보수집유효기간.vcxproj", "{D5E495E3-1F01-4FF5-87B8-5716781F6BBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -171,6 +173,14 @@ Global
 		{73E302CA-CB02-472B-BD7E-20ECB51FC4E7}.Release|x64.Build.0 = Release|x64
 		{73E302CA-CB02-472B-BD7E-20ECB51FC4E7}.Release|x86.ActiveCfg = Release|Win32
 		{73E302CA-CB02-472B-BD7E-20ECB51FC4E7}.Release|x86.Build.0 = Release|Win32
+		{D5E495E3-1F01-4FF5-87B8-5716781F6BBF}.Debug|x64.ActiveCfg = Debug|x64
+		{D5E495E3-1F01-4FF5-87B8-5716781F6BBF}.Debug|x64.Build.0 = Debug|x64
+		{D5E495E3-1F01-4FF5-87B8-5716781F6BBF}.Debug|x86.ActiveCfg = Debug|Win32
+		{D5E495E3-1F01-4FF5-87B8-5716781F6BBF}.Debug|x86.Build.0 = Debug|Win32
+		{D5E495E3-1F01-4FF5-87B8-5716781F6BBF}.Release|x64.ActiveCfg = Release|x64
+		{D5E495E3-1F01-4FF5-87B8-5716781F6BBF}.Release|x64.Build.0 = Release|x64
+		{D5E495E3-1F01-4FF5-87B8-5716781F6BBF}.Release|x86.ActiveCfg = Release|Win32
+		{D5E495E3-1F01-4FF5-87B8-5716781F6BBF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
